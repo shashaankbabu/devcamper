@@ -1,6 +1,6 @@
 # DevCamper Backend API Specifications
 
-Create the backend for a bootcamp directory website. All of the functionality below needs to be fully implmented in this project.
+Create the backend for a bootcamp directory website. 
 
 ### Bootcamps
 - List all bootcamps in the database
